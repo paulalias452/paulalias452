@@ -25,7 +25,7 @@ I work at the intersection of analytics and finance — building models, dashboa
 | Project | Description |
 |---|---|
 | **[Credit Risk PD Model](#)** | PD modelling on a public credit dataset using WoE/IV scoring, Logistic Regression & XGBoost, framed against IFRS 9 (ECL, Stage 1/2/3) |
-| **[Stock Price Prediction (LSTM)](https://github.com/paulalias452/Stock-Prediction-using-LSTM)** | Time-series forecasting of stock prices using an LSTM network |
+| **[Tata Stocks: Analysis & Forecasting](https://github.com/paulalias452/Stock-Prediction-using-LSTM)** | EDA & technical indicator analysis (SMA/EMA/RSI/Bollinger) across 4 Tata Group stocks, with price forecasting via LSTM vs. ARIMA |
 | **[SQL Analytics Project](#)** | Window functions, CTEs, and cohort analysis on a public transactional dataset |
 
 ### 🎓 Background
