@@ -1,6 +1,6 @@
 # Hi, I'm Paul 👋
 
-Senior Data Analyst at **PwC India** | 3+ years turning data into decisions across pharma, FMCG, fintech, and e-commerce
+Senior Data Analyst at **PwC India** | 3+ years turning data into decisions across FMCG, pharma, fintech, and e-commerce
 
 I work at the intersection of analytics and finance — building models, dashboards, and pipelines that hold up under scrutiny. Over the past 3 years at PwC, I've delivered analytics solutions for clients across **retail, manufacturing, pharma, and FMCG** — from demand forecasting and supply chain analytics to commercial performance dashboards — alongside fintech and e-commerce engagements. Currently focused on **credit risk modelling** and **quantitative analytics**, with an academic foundation in mathematics and big data.
 
